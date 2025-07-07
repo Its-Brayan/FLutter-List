@@ -3,3 +3,4 @@ class Quote{
   String? author;
   Quote({this.text,this.author});
 }
+
